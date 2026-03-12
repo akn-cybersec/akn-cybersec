@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Muhammad Abdullah Khan (AKN)
-I'm a cybersecurity student at **FAST NUCES, Islamabad**, passionate about **Binary Exploitation / Pwn** I document my journey through CTFs, writeups, and custom tools — all publicly here.<br><br>Currently deep in heap overflows, format strings, and the slow grind of actually learning instead of taking shortcuts.<br><br>"Trust The Process" - My Princess<br><br>Always approachable. Feel free to reach out:<br>
+I'm a cybersecurity student at **FAST NUCES, Islamabad**, passionate about **Binary Exploitation / Pwn**. I document my journey through CTFs, writeups, and custom tools — all publicly here.<br><br>Currently deep in heap overflows, format strings, and the slow grind of actually learning instead of taking shortcuts.<br><br>"Trust The Process" - My Princess<br><br>Always approachable. Feel free to reach out:<br>
 
 
 ## 🌐 Socials:
