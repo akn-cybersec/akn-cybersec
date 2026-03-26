@@ -58,5 +58,5 @@ I document **every solve, every mistake, every tool** — because there was a ti
 > *"We fall 9 times and rise 10."*  
 > — My journey, documented
 
-📌 *Note: The top contributed repo stats are currently unavailable (API returns 402). May return later — but the work is already in the repo, not the badge.*
+📌 *Note: Top contributed repo: bin-exp-journey.*
 
