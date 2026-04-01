@@ -1,33 +1,39 @@
-# 👋 I'm Muhammad Abdullah Khan (AKN / `0xk4iz3n`)
+# 🧨 Muhammad Abdullah Khan | `0xk4iz3n`
 
-I break things so I can build better ones.
+> *"I break things so I can build better ones."*
 
 **Cybersecurity student** at FAST NUCES, Islamabad — but my real classroom is the terminal at 2 AM, GDB, and a binary that doesn't want to give up its flag.
 
-I document **every solve, every mistake, every tool** — because there was a time when the "easy" challenges felt impossible. If you're stuck, maybe my journey helps you find your way out.
+I don't just post solves. I document **every struggle, every mistake, every tool** — because there was a time when the "easy" challenges felt impossible. If you're stuck, maybe my journey helps you find your way out.
 
 > *"Trust The Process"* — My Princess
 
 ---
 
-## 💻 Tech Stack
+## 🛠 What I Build & Break
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+| Domain | Tools & Languages |
+|--------|-------------------|
+| **Binary Exploitation / Pwn** | ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![Pwndbg](https://img.shields.io/badge/Pwndbg-%23CC0000.svg?style=for-the-badge&logo=gdb&logoColor=white), pwntools, ROP, heap overflows, format strings, shellcode |
+| **Custom Tooling** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Scripting & Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white), ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) |
+| **Reverse Engineering** | ![Ghidra](https://img.shields.io/badge/Ghidra-%23212121.svg?style=for-the-badge&logo=ghidra&logoColor=white), ![Pwndbg](https://img.shields.io/badge/Pwndbg-%23CC0000.svg?style=for-the-badge&logo=gdb&logoColor=white) |
+| **Web & Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
-### 🌐 Find Me
+## 📈 The Journey (So Far)
+
+- **24 days** of showing up
+- **41+ solved challenges** (heap, stack, format strings, ROP, canary bypass, shellcode)
+- **1,100+ GitHub clones** across repos
+- **4th in the world** for "bin-exp-journey" search
+- **CTF Developer** — building challenges for university events
+- **A repo that's become a resource** for others learning binary exploitation
+
+---
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-khan-841465384) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fict.0501@gmail.com) 
@@ -35,7 +41,7 @@ I document **every solve, every mistake, every tool** — because there was a ti
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=akn-cybersec&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=akn-cybersec&theme=nightowl&hide_border=false)
@@ -43,20 +49,22 @@ I document **every solve, every mistake, every tool** — because there was a ti
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=akn-cybersec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+## 📌 Featured Repo
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### [🔗 bin-exp-journey](https://github.com/akn-cybersec/Bin-Exp-Journey)
+
+A complete documentation of my journey through binary exploitation — every solve, every failure, every tool. From "how to deal with low attention spam" to heap overflows and ROP chains.  
+**1,100+ clones** | **41+ solves** | **4th in the world search**
 
 ---
 
 > *"We fall 9 times and rise 10."*  
 > — My journey, documented
 
-📌 *Note: Top contributed repo: bin-exp-journey.*
-
+📌 *Note: Top contributed repo is **bin-exp-journey**.*
