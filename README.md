@@ -11,9 +11,10 @@ I don't just post solves. I document **every struggle, every mistake, every tool
 ---
 
 ## 🛠 What I Build & Break
+
 | Domain | Tools & Languages |
 | :--- | :--- |
-| **Binary Exploitation / Pwn** | ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pwndbg](https://img.shields.io/badge/Pwndbg-%23CC0000.svg?style=for-the-badge&logo=gdb&logoColor=white) ![pwntools](https://img.shields.io/badge/pwntools-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white) ![ROP](https://img.shields.io/badge/ROP-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white) ![Heap Overflows](https://img.shields.io/badge/Heap_Overflows-%23FF5733.svg?style=for-the-badge&logo=stackoverflow&logoColor=white) ![Format Strings](https://img.shields.io/badge/Format_Strings-%239B59B6.svg?style=for-the-badge&logo=string&logoColor=white) ![Shellcode](https://img.shields.io/badge/Shellcode-%23E91E63.svg?style=for-the-badge&logo=shell&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
+| **Binary Exploitation / Pwn** | ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pwndbg](https://img.shields.io/badge/Pwndbg-%23CC0000.svg?style=for-the-badge&logo=gdb&logoColor=white) ![pwntools](https://img.shields.io/badge/pwntools-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white) ![ROP](https://img.shields.io/badge/ROP-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white) ![Heap Overflows](https://img.shields.io/badge/Heap_Overflows-%23FF5733.svg?style=for-the-badge&logo=stackoverflow&logoColor=white) ![Format Strings](https://img.shields.io/badge/Format_Strings-%239B59B6.svg?style=for-the-badge&logo=string&logoColor=white) ![Shellcode](https://img.shields.io/badge/Shellcode-%23E91E63.svg?style=for-the-badge&logo=shell&logoColor=white) ![Kali](https://img.shields.io/badge/-%20-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
 | **Custom Tooling** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Scripting & Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) |
 | **Reverse Engineering** | ![Ghidra](https://img.shields.io/badge/Ghidra-%23212121.svg?style=for-the-badge&logo=ghidra&logoColor=white) ![Pwndbg](https://img.shields.io/badge/Pwndbg-%23CC0000.svg?style=for-the-badge&logo=gdb&logoColor=white) |
@@ -23,34 +24,21 @@ I don't just post solves. I document **every struggle, every mistake, every tool
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-khan-841465384) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fict.0501@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/akn-cybersec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-khan-841465384) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fict.0501@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akn-cybersec)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Work
 
-![](https://github-readme-stats.vercel.app/api?username=akn-cybersec&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=akn-cybersec&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akn-cybersec&theme=nightowl&hide_border=false&layout=compact)
+### 🛡️ [Binary Exploitation Journey](https://github.com/akn-cybersec/Bin-Exp-Journey)
+*My central repository for documenting the path from buffer overflows to advanced heap exploitation.*
 
----
-
-## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=akn-cybersec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+* **Pwn Solves:** Detailed writeups for various CTF platforms.
+* **Tooling:** Scripts and configurations for a better debugging experience.
+* **Notes:** Theoretical deep-dives into the Linux memory model.
 
 ---
 
-## 📌 Featured Repo
-
-### [🔗 bin-exp-journey](https://github.com/akn-cybersec/Bin-Exp-Journey)
-
-
----
-
-> *"We fall 9 times and rise 10."*  
-> — My journey, documented
-
-📌 *Note: Top contributed repo is **bin-exp-journey**.*
+> *"We fall 9 times and rise 10."* > — My journey, documented
