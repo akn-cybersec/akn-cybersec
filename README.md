@@ -2,9 +2,10 @@
 
 > *"I break things so I can build better ones."*
 
-**Cybersecurity student** at FAST NUCES, Islamabad — but my real classroom is the terminal at 2 AM, GDB, and a binary that doesn't want to give up its flag.
-
-I don't just post solves. I document **every struggle, every mistake, every tool** — because there was a time when the "easy" challenges felt impossible. If you're stuck, maybe my journey helps you find your way out.
+**Cybersecurity** student at FAST NUCES, Islamabad.  
+Building tools, solving challenges, and documenting the process.  
+Focus areas: Binary Exploitation / Pwn, reverse engineering, and low-level systems.  
+I share what I learn — the successes and the struggles — because growth happens in both.
 
 > *"Trust The Process"* — My Princess
 
