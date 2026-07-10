@@ -15,6 +15,7 @@
 
 Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in binary exploitation, reverse engineering, and low-level systems — reading disassembly for fun, breaking things on purpose, and writing tools when the existing ones don't fit the workflow.
 
+No prior technical background before August 2025. Everything below grew out of that.
 
 <br>
 
@@ -41,11 +42,6 @@ Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in b
 </div>
 
 <br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akn-cybersec&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akn-cybersec&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="165"/>
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akn-cybersec&theme=react&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
