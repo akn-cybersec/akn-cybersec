@@ -15,7 +15,6 @@
 
 Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in binary exploitation, reverse engineering, and low-level systems — reading disassembly for fun, breaking things on purpose, and writing tools when the existing ones don't fit the workflow.
 
-No prior technical background before August 2025. Everything below grew out of that.
 
 <br>
 
@@ -33,6 +32,11 @@ No prior technical background before August 2025. Everything below grew out of t
 ![pwntools](https://img.shields.io/badge/pwntools-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-212121?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Capstone](https://img.shields.io/badge/Capstone-E91E63?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
