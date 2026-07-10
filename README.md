@@ -13,9 +13,7 @@
 
 ### `whoami`
 
-Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in binary exploitation, reverse engineering, and low-level systems — reading disassembly for fun, breaking things on purpose, and writing tools when the existing ones don't fit the workflow.
-
-No prior technical background before August 2025. Everything below grew out of that.
+Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in binary exploitation, reverse engineering, and low-level systems; reading disassembly for fun, breaking things on purpose, and writing tools when the existing ones don't fit the workflow.
 
 <br>
 
@@ -57,14 +55,14 @@ No prior technical background before August 2025. Everything below grew out of t
 
 **🛠 [binja](https://github.com/akn-cybersec/binja)**
 
-A lightweight ELF analysis & patching tool — Capstone disassembly, cross-ref scanning, protection detection, ROP gadget search, all from a REPL. No `libelf`, one dependency, built for CTF speed.
+A lightweight ELF analysis & patching tool; Capstone disassembly, cross-ref scanning, protection detection, ROP gadget search, all from a REPL. No `libelf`, one dependency, built for CTF speed.
 
 </td>
 <td width="50%" valign="top">
 
 **📓 [Bin-Exp-Journey](https://github.com/akn-cybersec/bin-exp-journey)**
 
-A dated, running log of every pwn challenge I solve — and the ones I don't. Heap bugs, format strings, ROP chains, PIE bypasses. No cherry-picking wins.
+A dated, running log of every pwn challenge I solve; and the ones I don't. Heap bugs, format strings, ROP chains, PIE bypasses. No cherry-picking wins.
 
 </td>
 </tr>
