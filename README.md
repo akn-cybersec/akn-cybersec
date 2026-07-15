@@ -105,6 +105,6 @@ A dated, running log of every pwn challenge I solve, and the ones I do not. Heap
 </div>
 
 <pre align="center">
-akn@arch ~ % exit
+kaizen@dragon ~ % exit
 process trusted. session closed.
 </pre>
