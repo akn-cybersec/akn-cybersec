@@ -19,7 +19,7 @@ Cybersecurity student at **FAST-NUCES, Islamabad**. I spend most of my time in b
 
 <div align="center">
 
-### 🧰 Arsenal
+### Arsenal
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
