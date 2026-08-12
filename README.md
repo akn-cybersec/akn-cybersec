@@ -19,7 +19,6 @@ Cybersecurity student, FAST-NUCES Islamabad.
 Binary exploitation, reverse engineering, low-level systems.
 I read disassembly for fun, I break things on purpose, I build
 tools when the existing ones do not fit the workflow.
-
 Portfolio: https://akn-cybersec.vercel.app/
 ```
 
